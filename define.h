@@ -1,0 +1,12 @@
+#define L_read_user 150
+#define L_string_limit 50
+#define L_max_limit 15
+#define L_min_limit 8
+#define f_users "users.txt"
+#define f_rejected "rejected.txt"
+#define f_users_b "users.dat"
+#define f_users_aux_b "users_aux.dat"
+#define f_orders_b "pedidos.dat"
+#define f_orders "pedidos.txt"
+#define search_email 1
+#define search_lower 2
